@@ -1,0 +1,10 @@
+# Object files
+**/obj/
+**/*.o
+
+# Executables
+**/bin/
+
+# Visual Studio & VSCode user settings
+**/.vscode
+**/.vs
